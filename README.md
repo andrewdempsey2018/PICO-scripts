@@ -1,3 +1,5 @@
 # PICO scripts
 
-![sgsdfsdft](pot.png)
+![pico_pinout](pico_pinout.png)
+
+![pot](pot.png)
