@@ -2,12 +2,20 @@
 
 ## PICO pinout
 
-![pico_pinout](pico_pinout.png)
+![pico_pinout](images/pico_pinout.png)
 
 ## Potentiometer
 
-![pot](pot.png)
+![pot](images/pot.png)
 
 ## Servo
 
-![servo](servo.png)
+![servo](images/servo.png)
+
+## NRF24
+
+![NRF24 wiring](images/nrf24_to_pico.png)
+
+## ------
+
+![2 pico's wired up](images/pico_nrf24_photo.jpg)
